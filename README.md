@@ -5,5 +5,5 @@ Some #bada55 front-end developer resources, curated and loved by @sodevious. Fee
 
 Table of contents:
 
-[Testing resources](TESTING.md) **testing.md**
-[HTML Email resources](EMAILS.md) **emails.md**
+* [HTML Email resources](EMAILS.md) **emails.md**
+* [Testing resources](TESTING.md) **testing.md**
