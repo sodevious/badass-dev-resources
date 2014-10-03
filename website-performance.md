@@ -5,3 +5,5 @@
 * Optimize and compress images!
 * Your browser can only make 6 open connections to the same domain at a time.
 * The steeper your performance waterfall, the better.
+
+* `async`'d files are non critical, should not repaint the DOM / alter elements
